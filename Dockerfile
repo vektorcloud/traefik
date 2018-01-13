@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/base:3.6
+FROM quay.io/vektorcloud/base:3.7
 
 RUN VERSION="1.1.2" && \
   PACKAGE="traefik_linux-amd64" && \
