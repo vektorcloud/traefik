@@ -1,6 +1,6 @@
 # Traefik
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/traefik)
 
 Tiny Alpine image for running [Traefik](https://traefik.io/)
 
